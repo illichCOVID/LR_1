@@ -1,0 +1,14 @@
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.exe
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.deps.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.runtimeconfig.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.runtimeconfig.dev.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.dll
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\bin\Debug\netcoreapp3.1\Лаба 2.pdb
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.csproj.AssemblyReference.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.AssemblyInfoInputs.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.AssemblyInfo.cs
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.csproj.CoreCompileInputs.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.dll
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.pdb
+C:\Users\llya\Desktop\Універ\2Курс\С#\C#\Лаба 2\obj\Debug\netcoreapp3.1\Лаба 2.genruntimeconfig.cache
