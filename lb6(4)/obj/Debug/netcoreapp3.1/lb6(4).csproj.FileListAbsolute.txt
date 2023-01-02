@@ -1,0 +1,14 @@
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).exe
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).deps.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).runtimeconfig.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).runtimeconfig.dev.json
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).dll
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\bin\Debug\netcoreapp3.1\lb6(4).pdb
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).csproj.AssemblyReference.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).AssemblyInfoInputs.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).AssemblyInfo.cs
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).csproj.CoreCompileInputs.cache
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).dll
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).pdb
+C:\Users\llya\Desktop\Універ\2Курс\С#\lb6(4)\obj\Debug\netcoreapp3.1\lb6(4).genruntimeconfig.cache
